@@ -4,3 +4,5 @@ let lista = {
     edad: 16
 }
 let extra = "Saludo"
+
+let paises = [Argentina, Peru, Chile]
