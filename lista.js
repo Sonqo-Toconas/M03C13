@@ -3,3 +3,4 @@ let lista = {
     apellido: Voldemort,
     edad: 16
 }
+let extra = "Saludo"
