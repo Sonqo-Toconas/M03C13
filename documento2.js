@@ -8,7 +8,7 @@
         edad: 2,
     },
     {
-        mascota: Capibara,
+        mascota: Capiba,
         edad: 10
     }
 ]
