@@ -1,4 +1,5 @@
 let lista = {
     nombre: Inombrable,
-    apellido: Voldemort
+    apellido: Voldemort,
+    edad: 16
 }
